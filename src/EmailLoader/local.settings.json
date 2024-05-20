@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+      "MailboxCheckerSchedule": "0 */5 * * * *",
+      "EmailLogin": "foobar@example.com",
+      "EmailPassword": "TODO",
+      "EmailServerDomain": "imap.example.com",
+      "EmailServerPort": 993,
+      "ExternalApiBaseUrl": "http://localhost:8080/api/",
+      "ExternalApiLogin": "TODO",
+      "ExternalApiPassword": "TODO"
+    }
+}
